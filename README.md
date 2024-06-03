@@ -34,6 +34,9 @@ I am a 23-year-old Computer Science student passionate about Data Science and Ma
 
 - **`Numpy`**      <img align="left" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg'>
 
+- **`scikit-learn`**  <img align="left" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg'>
+
+
 #
 
 ### 🚀 Fun Facts & Hobbies
