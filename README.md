@@ -3,7 +3,7 @@
 **`Incoming Data Scientist & Machine Learning Engineer`**
 
 
-I am a 23-year-old Computer Science student passionate about Data Science and Machine Learning.
+Hello and welcome to my GitHub profile, I am a 23-year-old Computer Science student passionate about Data Science and Machine Learning.
 
 #
 
