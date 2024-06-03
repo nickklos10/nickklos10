@@ -5,6 +5,8 @@
 
 I am a 23-year-old Computer Science student passionate about Data Science and Machine Learning.
 
+#
+
 ### 🖥️ Languages & Tools
 
 
@@ -26,6 +28,7 @@ I am a 23-year-old Computer Science student passionate about Data Science and Ma
 * I love to collaborate on teams for projects or ideas.
 + I am passionate about Italian cuisine and like to cook in my spare time.
 
+#
 
 ### 📬 Contact
 
