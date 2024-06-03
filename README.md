@@ -2,7 +2,7 @@
 
 I am a 23-year-old Computer Science student passionate about Data Science and Machine Learning.
 
-# 📦 Toolbox
+## 📦 Toolbox
 
 **Front-End Development:** 
 **Back-End Development:** 
@@ -12,14 +12,14 @@ I am a 23-year-old Computer Science student passionate about Data Science and Ma
 **Data Visualization Tools** 
 
 
-# 🚀 Fun Facts & Hobbies
+## 🚀 Fun Facts & Hobbies
 
 - I am a fanatic of ~Soccer~ Football.
 * I love to collaborate on teams for projects or ideas.
 + I am passionate about Italian cuisine and like to cook in my spare time.
 
 
-# 📬 Contact
+## 📬 Contact
 
 For a quick response, DM on [LinkedIn](https://www.linkedin.com/in/nicholas-klos-16438422b/).
 
