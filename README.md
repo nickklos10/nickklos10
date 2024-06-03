@@ -26,9 +26,9 @@ I am a 23-year-old Computer Science student passionate about Data Science and Ma
 
 ### 📚 Python Libraries
 
-- **`Pandas`** <img align="left" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg'>
-- **`Matplotlib`** <img align="left" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latesticons/icons/matplotlib/matplotlib-original.svg'>
-- **`TensorFlow`**  <img align="left" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latesticons/icons/tensorflow/tensorflow-original.svg'>
+- **`Pandas`**     <img align="left" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg'>
+- **`Matplotlib`** <img align="left" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg'>
+- **`TensorFlow`** <img align="left" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg'>
 
 
 #
