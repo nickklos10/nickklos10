@@ -5,24 +5,27 @@
 
 I am a 23-year-old Computer Science student passionate about Data Science and Machine Learning.
 
-## 🖥️ Languages
+### 🖥️ Languages & Tools
 
 
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
 
-## 🚀 Fun Facts & Hobbies
+### 🚀 Fun Facts & Hobbies
 
 - I am a fanatic of ~Soccer~ Football.
 * I love to collaborate on teams for projects or ideas.
 + I am passionate about Italian cuisine and like to cook in my spare time.
 
 
-## 📬 Contact
+### 📬 Contact
 
 For a quick response, DM on [LinkedIn](https://www.linkedin.com/in/nicholas-klos-16438422b/).
 
