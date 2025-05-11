@@ -27,7 +27,7 @@ Hello and welcome to my GitHub profile, I am a 24-year-old Computer Science stud
 
 - **`PyTorch`**  <img align="left" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg'>
 
-- **`Keras`**  <img align="left" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg'>
+- **`Keras`**  <img align="left" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg'><br>
 
 
 ## 📊 GitHub Stats:
