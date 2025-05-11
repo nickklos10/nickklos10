@@ -2,6 +2,8 @@
 
 **`Incoming Data Scientist & Machine Learning Engineer`**
 
+<h3 align="center">Hello and welcome to my GitHub profile, I am a 24-year-old Computer Science student passionate about AI and Data.</h3>
+
 🔭 I’m currently working on an AI Finances Tracker<br>🌱 I’m currently learning LangChain & AI Agents Implementation<br>📫 How to reach me nicholask39@gmail.com<br>👨‍💻 All of my projects are available at nicholas-klos-portfolio.vercel.app
 
 
