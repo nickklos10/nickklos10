@@ -9,6 +9,8 @@ Hello and welcome to my GitHub profile, I am a 23-year-old Computer Science stud
 
 ### 🖥️ Languages & Tools
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickklos10&show_icons=true&locale=en&layout=compact" alt="nickklos10" /></p>
+
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
