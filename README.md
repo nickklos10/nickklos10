@@ -4,7 +4,7 @@
 
 Hello and welcome to my GitHub profile, I am a 24-year-old Computer Science student passionate about AI and Data.
 
-🔭 I’m currently working on an AI Finances Tracker<br>🌱 I’m currently learning LangChain & AI Agents Implementation<br>📫 How to reach me nicholask39@gmail.com<br>👨‍💻 All of my projects are available at nicholas-klos-portfolio.vercel.app
+🔭 I’m currently working on a Full Stack Project - [AI Finance Tracker](https://github.com/nickklos10/AI-Finance-Tracker).<br>🌱 I’m currently learning LangChain & AI Agents Implementation.<br>📫 How to reach me nicholask39@gmail.com<br>👨‍💻 All of my projects are available on [My Portfolio.](nicholas-klos-portfolio.vercel.app)
 
 
 ## 🌐 Socials:
