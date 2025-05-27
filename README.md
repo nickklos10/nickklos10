@@ -1,6 +1,6 @@
 # 🏂 Nicholas Klos
 
-**`Incoming Data Scientist & Machine Learning Engineer`**
+**`Incoming Software Engineer and Data Engineer`**
 
 Hello and welcome to my GitHub profile, I am a 24-year-old Computer Science student passionate about AI and Data.
 
