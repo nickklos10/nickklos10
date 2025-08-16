@@ -1,8 +1,8 @@
 # 🏂 Nicholas Klos
 
-**`Incoming Software Engineer and Data Engineer`**
+**`Palantir Forward Deployed Data Engineer`**
 
-Hello and welcome to my GitHub profile, I am a 24-year-old Computer Science student passionate about AI and Data.
+Hello and welcome to my GitHub profile, I am a 24-year-old FDE passionate about AI and Data.
 
 🔭 I’m currently working on a Data Engineering Project using Spark and Kafka for a [Real-Time Voting System](https://github.com/nickklos10/VotingDataEng).<br>🌱 I’m currently learning LangChain & AI Agents Implementation.<br>📫 Reach me at nicholask39@gmail.com<br>👨‍💻 All of my projects are available on [My Portfolio.](https://nk-portfolio-beta.vercel.app/)
 
